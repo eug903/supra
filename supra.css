@@ -1,0 +1,39 @@
+header {
+    height: 100px;
+    width: 100%;
+    border-bottom: 10px solid darkblue;
+    background-color: rgb(250, 242, 242);
+  }
+
+section {
+    width: 50%;
+    margin: 10px auto;
+    border-bottom: 5px solid darkblue;
+    background-color: #ffffff;
+  }
+  
+h1 {
+    text-align: center;
+    line-height: 90px;
+  }
+  
+h2 {
+    text-align: center;
+    margin-bottom: 10px auto;
+  }
+
+.container {
+    padding: 20px 40px;
+  }
+.image-padding {
+    padding: 20px;
+    background-color: #999900;
+  }
+  
+.image-border {
+    border: 10px solid darkblue;
+  }
+  
+.image-margin {
+    margin: 20px;
+  }
